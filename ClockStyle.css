@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 23%;
+    background-color: #282c34; 
+    color: #61dafb;
+    font-family: 'Arial', sans-serif;
+}
+
+.clock {
+    font-size: 68px;
+}
